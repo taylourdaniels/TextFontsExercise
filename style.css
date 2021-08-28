@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#series-movies {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+li {
+    line-height: 2;
+}
+
+#characters {
+    font-size: 18px;
+}
+
+h4 {
+    letter-spacing: 15px;
+}
